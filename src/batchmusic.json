@@ -1,0 +1,24 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "IAviões do forró"},
+                  "SongTitle": {"S": "Deixa"},
+                  "AlbumTitle": {"S": "A diferença está no ar! 4"},
+                  "SongYear": {"S": "2012"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Wesley Safadão"},
+                  "SongTitle": {"S": "pegua o guanabara"},
+                  "AlbumTitle": {"S": "Ao vivo em fortaleza"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        }
+      ]
+}
